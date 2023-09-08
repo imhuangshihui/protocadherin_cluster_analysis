@@ -1,4 +1,4 @@
-# DNA methylation-based measures of cognitive decline over 16 years in patients with Protocadherins (Pcdhs)
+# DNA methylation-based measures of cognitive decline over 16 years with Protocadherins (Pcdhs)
 
 ## Background
 
